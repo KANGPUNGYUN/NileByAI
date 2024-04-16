@@ -1,0 +1,1351 @@
+.home-page {
+  background-color: #171a1f;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home-page .div-6 {
+  background-color: #171a1f;
+  height: 8442px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.home-page .overlap-group-5 {
+  height: 848px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.home-page .pexels-pavel {
+  height: 756px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 92px;
+  width: 1436px;
+}
+
+.home-page .container-10 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.home-page .group-2 {
+  height: 544px;
+  left: 151px;
+  position: absolute;
+  top: 231px;
+  width: 1142px;
+}
+
+.home-page .text-wrapper-73 {
+  color: #ffffff;
+  font-family: "Lexend", Helvetica;
+  font-size: 80px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 104px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 1138px;
+}
+
+.home-page .button-30 {
+  all: unset;
+  background-color: #bd9a30;
+  border-radius: 8px;
+  box-sizing: border-box;
+  height: 52px;
+  left: 475px;
+  overflow: hidden;
+  position: absolute;
+  top: 492px;
+  width: 188px;
+}
+
+.home-page .text-wrapper-74 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-75 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 311px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 374px;
+  width: 516px;
+}
+
+.home-page .text-wrapper-76 {
+  color: #f3c63f;
+  font-family: "Lexend", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 657px;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  top: 896px;
+  white-space: nowrap;
+}
+
+.home-page .container-11 {
+  -webkit-backdrop-filter: blur(35px) brightness(100%);
+  backdrop-filter: blur(35px) brightness(100%);
+  background-color: #1e2128;
+  border-radius: 4px;
+  box-shadow: inset 0px 0px 2px #f8f9fa1f;
+  height: 193px;
+  left: 125px;
+  position: absolute;
+  top: 1071px;
+  width: 169px;
+}
+
+.home-page .text-wrapper-77 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 65px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+}
+
+.home-page .music {
+  height: 40px;
+  left: 65px;
+  position: absolute;
+  top: 34px;
+  width: 40px;
+}
+
+.home-page .text-wrapper-78 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 126px;
+  width: 139px;
+}
+
+.home-page .container-12 {
+  background-color: #0c0e11c7;
+  border-radius: 4px;
+  height: 917px;
+  left: 0;
+  position: absolute;
+  top: 1317px;
+  width: 1440px;
+}
+
+.home-page .text-wrapper-79 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 45px;
+  font-weight: 700;
+  left: 261px;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 113px;
+  width: 913px;
+}
+
+.home-page .text-wrapper-80 {
+  color: #9c9c9c;
+  font-family: "Manrope", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 324px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 245px;
+  width: 788px;
+}
+
+.home-page .image-4 {
+  height: 478px;
+  left: 248px;
+  position: absolute;
+  top: 415px;
+  width: 945px;
+}
+
+.home-page .button-31 {
+  all: unset;
+  background-color: #bd9a30;
+  border-radius: 8px;
+  box-sizing: border-box;
+  height: 52px;
+  left: 653px;
+  overflow: hidden;
+  position: absolute;
+  top: 344px;
+  width: 134px;
+}
+
+.home-page .text-wrapper-81 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-82 {
+  color: #f3c63f;
+  font-family: "Manrope", Helvetica;
+  font-size: 35px;
+  font-weight: 700;
+  left: 666px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 53px;
+  white-space: nowrap;
+}
+
+.home-page .container-13 {
+  -webkit-backdrop-filter: blur(35px) brightness(100%);
+  backdrop-filter: blur(35px) brightness(100%);
+  background-color: #1e2128;
+  border-radius: 4px;
+  box-shadow: inset 0px 0px 2px #f8f9fa1f;
+  height: 193px;
+  left: 329px;
+  position: absolute;
+  top: 1071px;
+  width: 169px;
+}
+
+.home-page .text-wrapper-83 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 129px;
+  width: 139px;
+}
+
+.home-page .container-14 {
+  -webkit-backdrop-filter: blur(35px) brightness(100%);
+  backdrop-filter: blur(35px) brightness(100%);
+  background-color: #1e2128;
+  border-radius: 4px;
+  box-shadow: inset 0px 0px 2px #f8f9fa1f;
+  height: 193px;
+  left: 533px;
+  position: absolute;
+  top: 1071px;
+  width: 169px;
+}
+
+.home-page .text-wrapper-84 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 129px;
+  width: 139px;
+}
+
+.home-page .container-15 {
+  -webkit-backdrop-filter: blur(35px) brightness(100%);
+  backdrop-filter: blur(35px) brightness(100%);
+  background-color: #1e2128;
+  border-radius: 4px;
+  box-shadow: inset 0px 0px 2px #f8f9fa1f;
+  height: 193px;
+  left: 738px;
+  position: absolute;
+  top: 1071px;
+  width: 169px;
+}
+
+.home-page .container-16 {
+  -webkit-backdrop-filter: blur(35px) brightness(100%);
+  backdrop-filter: blur(35px) brightness(100%);
+  background-color: #1e2128;
+  border-radius: 4px;
+  box-shadow: inset 0px 0px 2px #f8f9fa1f;
+  height: 193px;
+  left: 942px;
+  position: absolute;
+  top: 1071px;
+  width: 169px;
+}
+
+.home-page .container-17 {
+  background-color: #171a1f;
+  height: 1475px;
+  left: 1px;
+  position: absolute;
+  top: 2234px;
+  width: 1440px;
+}
+
+.home-page .text-wrapper-85 {
+  color: #bd9a30;
+  font-family: "Manrope", Helvetica;
+  font-size: 35px;
+  font-weight: 700;
+  left: 625px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 64px;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-86 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 45px;
+  font-weight: 700;
+  left: 305px;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 128px;
+  width: 830px;
+}
+
+.home-page .text-wrapper-87 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 128px;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 268px;
+  white-space: nowrap;
+  width: 389px;
+}
+
+.home-page .text-wrapper-88 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 517px;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 268px;
+  white-space: nowrap;
+  width: 389px;
+}
+
+.home-page .text-wrapper-89 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 910px;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 268px;
+  white-space: nowrap;
+  width: 389px;
+}
+
+.home-page .image-5 {
+  height: 533px;
+  left: 141px;
+  position: absolute;
+  top: 336px;
+  width: 1158px;
+}
+
+.home-page .image-6 {
+  height: 522px;
+  left: 141px;
+  position: absolute;
+  top: 913px;
+  width: 1158px;
+}
+
+.home-page .overlap-4 {
+  height: 465px;
+  left: 132px;
+  position: absolute;
+  top: 6061px;
+  width: 1176px;
+}
+
+.home-page .container-18 {
+  background-color: #171a1f;
+  border-radius: 48px;
+  box-shadow: 0px 0px 1px #171a1f12, 0px 0px 2px #171a1f1f;
+  height: 415px;
+  left: 0;
+  position: absolute;
+  top: 50px;
+  width: 1176px;
+}
+
+.home-page .oval-2 {
+  height: 16px;
+  left: 540px;
+  position: absolute;
+  top: 357px;
+  width: 16px;
+}
+
+.home-page .oval-3 {
+  height: 16px;
+  left: 580px;
+  position: absolute;
+  top: 357px;
+  width: 16px;
+}
+
+.home-page .oval-4 {
+  height: 16px;
+  left: 620px;
+  position: absolute;
+  top: 357px;
+  width: 16px;
+}
+
+.home-page .oval-5 {
+  height: 16px;
+  left: 660px;
+  position: absolute;
+  top: 357px;
+  width: 16px;
+}
+
+.home-page .oval-6 {
+  height: 16px;
+  left: 500px;
+  position: absolute;
+  top: 357px;
+  width: 16px;
+}
+
+.home-page .container-19 {
+  background-color: #ffffff;
+  border-radius: 24px;
+  height: 260px;
+  left: 57px;
+  position: absolute;
+  top: 51px;
+  width: 338px;
+}
+
+.home-page .text-wrapper-90 {
+  color: #171a1f;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 102px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.home-page .rating {
+  height: 16px;
+  left: 102px;
+  position: absolute;
+  top: 59px;
+  width: 80px;
+}
+
+.home-page .text-wrapper-91 {
+  color: #9095a1;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 276px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: right;
+  top: 33px;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-92 {
+  color: #171a1f;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 111px;
+  width: 290px;
+}
+
+.home-page .avatar-2 {
+  background-color: #d3c1fa;
+  border-radius: 32px;
+  height: 64px;
+  left: 24px;
+  overflow: hidden;
+  position: absolute;
+  top: 24px;
+  width: 64px;
+}
+
+.home-page .rectangle-3 {
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 64px;
+}
+
+.home-page .container-20 {
+  background-color: #ffffff;
+  border-radius: 24px;
+  height: 260px;
+  left: 419px;
+  position: absolute;
+  top: 51px;
+  width: 338px;
+}
+
+.home-page .avatar-3 {
+  background-color: #ccf7ae;
+  border-radius: 32px;
+  height: 64px;
+  left: 24px;
+  overflow: hidden;
+  position: absolute;
+  top: 24px;
+  width: 64px;
+}
+
+.home-page .container-21 {
+  background-color: #ffffff;
+  border-radius: 24px;
+  height: 260px;
+  left: 781px;
+  position: absolute;
+  top: 51px;
+  width: 338px;
+}
+
+.home-page .text-wrapper-93 {
+  color: #a3a3a3;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 309px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 568px;
+}
+
+.home-page .element-businesses {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 459px;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 5930px;
+  width: 522px;
+}
+
+.home-page .overlap-5 {
+  height: 1505px;
+  left: -3px;
+  position: absolute;
+  top: 6581px;
+  width: 1440px;
+}
+
+.home-page .container-22 {
+  background-color: #0f1114;
+  height: 828px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.home-page .text-wrapper-94 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 572px;
+  letter-spacing: 0;
+  line-height: 68px;
+  position: absolute;
+  text-align: center;
+  top: 95px;
+  white-space: nowrap;
+}
+
+.home-page .line-11 {
+  height: 2px;
+  left: 132px;
+  position: absolute;
+  top: 254px;
+  width: 1176px;
+}
+
+.home-page .text-wrapper-95 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 278px;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-96 {
+  color: #929292;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 314px;
+  width: 700px;
+}
+
+.home-page .button-32 {
+  all: unset;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 44px;
+  left: 1264px;
+  overflow: hidden;
+  position: absolute;
+  top: 279px;
+  width: 44px;
+}
+
+.home-page .text-7 {
+  color: #565d6d;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.home-page .img-9 {
+  height: 20px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 20px;
+}
+
+.home-page .line-12 {
+  height: 2px;
+  left: 132px;
+  position: absolute;
+  top: 416px;
+  width: 1176px;
+}
+
+.home-page .enim-dolore-veniam {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 448px;
+  white-space: nowrap;
+}
+
+.home-page .button-33 {
+  all: unset;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 44px;
+  left: 1264px;
+  overflow: hidden;
+  position: absolute;
+  top: 442px;
+  width: 44px;
+}
+
+.home-page .text-8 {
+  color: #9095a1;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.home-page .line-13 {
+  height: 2px;
+  left: 132px;
+  position: absolute;
+  top: 510px;
+  width: 1176px;
+}
+
+.home-page .line-14 {
+  height: 2px;
+  left: 132px;
+  position: absolute;
+  top: 602px;
+  width: 1176px;
+}
+
+.home-page .button-34 {
+  all: unset;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 44px;
+  left: 1264px;
+  overflow: hidden;
+  position: absolute;
+  top: 535px;
+  width: 44px;
+}
+
+.home-page .eu-ex-officia {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 541px;
+  white-space: nowrap;
+}
+
+.home-page .button-35 {
+  all: unset;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 44px;
+  left: 1264px;
+  overflow: hidden;
+  position: absolute;
+  top: 628px;
+  width: 44px;
+}
+
+.home-page .sint-occaecat-dolor {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 634px;
+  white-space: nowrap;
+}
+
+.home-page .line-15 {
+  height: 2px;
+  left: 132px;
+  position: absolute;
+  top: 696px;
+  width: 1176px;
+}
+
+.home-page .text-wrapper-97 {
+  color: #bd9a30;
+  font-family: "Manrope", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 701px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  white-space: nowrap;
+}
+
+.home-page .button-36 {
+  all: unset;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 44px;
+  left: 1264px;
+  overflow: hidden;
+  position: absolute;
+  top: 721px;
+  width: 44px;
+}
+
+.home-page .velit-nulla-ex {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 727px;
+  white-space: nowrap;
+}
+
+.home-page .container-23 {
+  background-color: #171a1f;
+  height: 677px;
+  left: 0;
+  position: absolute;
+  top: 828px;
+  width: 1440px;
+}
+
+.home-page .text-wrapper-98 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 62px;
+  font-weight: 400;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: 82px;
+  position: absolute;
+  top: 131px;
+  white-space: nowrap;
+}
+
+.home-page .group-3 {
+  height: 113px;
+  left: 132px;
+  position: absolute;
+  top: 250px;
+  width: 314px;
+}
+
+.home-page .text-wrapper-99 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 87px;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-100 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 45px;
+  width: 132px;
+}
+
+.home-page .phone {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 50px;
+  width: 16px;
+}
+
+.home-page .mail {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 92px;
+  width: 16px;
+}
+
+.home-page .text-wrapper-101 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 0;
+  width: 280px;
+}
+
+.home-page .location-pin {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 16px;
+}
+
+.home-page .button-37 {
+  all: unset;
+  background-color: #bd9a30;
+  border-radius: 8px;
+  box-sizing: border-box;
+  height: 44px;
+  left: 852px;
+  overflow: hidden;
+  position: absolute;
+  top: 493px;
+  width: 200px;
+}
+
+.home-page .text-wrapper-102 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.home-page .textbox-9 {
+  border-radius: 4px 4px 0px 0px;
+  height: 44px;
+  left: 852px;
+  position: absolute;
+  top: 132px;
+  width: 456px;
+}
+
+.home-page .vector {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 44px;
+  width: 456px;
+}
+
+.home-page .text-wrapper-103 {
+  color: #bdc1ca;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.home-page .textbox-10 {
+  border-radius: 4px 4px 0px 0px;
+  height: 44px;
+  left: 852px;
+  position: absolute;
+  top: 196px;
+  width: 456px;
+}
+
+.home-page .textarea-2 {
+  border: 1px solid;
+  border-color: #9095a1;
+  height: 140px;
+  left: 851px;
+  position: absolute;
+  top: 329px;
+  width: 457px;
+}
+
+.home-page .text-wrapper-104 {
+  color: #bdc1ca;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 12px;
+  width: 416px;
+}
+
+.home-page .resizing-handle-2 {
+  height: 12px;
+  left: 444px;
+  position: absolute;
+  top: 127px;
+  width: 12px;
+}
+
+.home-page .textbox-11 {
+  border-radius: 4px 4px 0px 0px;
+  height: 44px;
+  left: 852px;
+  position: absolute;
+  top: 260px;
+  width: 456px;
+}
+
+.home-page .line-16 {
+  height: 410px;
+  left: 720px;
+  position: absolute;
+  top: 127px;
+  width: 1px;
+}
+
+.home-page .image-7 {
+  height: 128px;
+  left: 132px;
+  position: absolute;
+  top: 409px;
+  width: 456px;
+}
+
+.home-page .container-24 {
+  -webkit-backdrop-filter: blur(35px) brightness(100%);
+  backdrop-filter: blur(35px) brightness(100%);
+  background-color: #1e2128;
+  border-radius: 4px;
+  box-shadow: inset 0px 0px 2px #f8f9fa1f;
+  height: 193px;
+  left: 1146px;
+  position: absolute;
+  top: 1071px;
+  width: 169px;
+}
+
+.home-page .text-wrapper-105 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 467px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 962px;
+  width: 516px;
+}
+
+.home-page .container-25 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 8086px !important;
+}
+
+.home-page .container-26 {
+  background-color: #1e2128;
+  border-radius: 4px;
+  height: 884px;
+  left: -3px;
+  position: absolute;
+  top: 3735px;
+  width: 1440px;
+}
+
+.home-page .image-8 {
+  height: 502px;
+  left: 746px;
+  position: absolute;
+  top: 338px;
+  width: 651px;
+}
+
+.home-page .text-wrapper-106 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 133px;
+  letter-spacing: 0;
+  line-height: 68px;
+  position: absolute;
+  top: 433px;
+  width: 522px;
+}
+
+.home-page .text-wrapper-107 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 133px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 656px;
+  width: 439px;
+}
+
+.home-page .text-wrapper-108 {
+  color: #bd9a30;
+  font-family: "Lexend", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 133px;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  top: 355px;
+  white-space: nowrap;
+}
+
+.home-page .big-brother-sheep-2 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 45px;
+  font-weight: 700;
+  left: 423px;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  top: 118px;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-109 {
+  color: #a3a3a3;
+  font-family: "Manrope", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 412px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 207px;
+  width: 616px;
+}
+
+.home-page .text-wrapper-110 {
+  color: #bd9a30;
+  font-family: "Manrope", Helvetica;
+  font-size: 35px;
+  font-weight: 700;
+  left: 654px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 47px;
+  white-space: nowrap;
+}
+
+.home-page .container-27 {
+  background-color: #171a1f;
+  border-radius: 4px;
+  height: 624px;
+  left: -3px;
+  position: absolute;
+  top: 4619px;
+  width: 1440px;
+}
+
+.home-page .text-wrapper-111 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 840px;
+  letter-spacing: 0;
+  line-height: 68px;
+  position: absolute;
+  top: 185px;
+  width: 522px;
+}
+
+.home-page .text-wrapper-112 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 840px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 408px;
+  width: 530px;
+}
+
+.home-page .text-wrapper-113 {
+  color: #bd9a30;
+  font-family: "Lexend", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 838px;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  top: 95px;
+  white-space: nowrap;
+}
+
+.home-page .image-9 {
+  height: 502px;
+  left: 98px;
+  position: absolute;
+  top: 78px;
+  width: 673px;
+}
+
+.home-page .container-28 {
+  background-color: #1e2128;
+  border-radius: 4px;
+  height: 599px;
+  left: -3px;
+  position: absolute;
+  top: 5243px;
+  width: 1440px;
+}
+
+.home-page .text-wrapper-114 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 133px;
+  letter-spacing: 0;
+  line-height: 68px;
+  position: absolute;
+  top: 161px;
+  width: 522px;
+}
+
+.home-page .text-wrapper-115 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 133px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 384px;
+  width: 439px;
+}
+
+.home-page .text-wrapper-116 {
+  color: #bd9a30;
+  font-family: "Lexend", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 133px;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  top: 95px;
+  white-space: nowrap;
+}
+
+.home-page .image-10 {
+  height: 473px;
+  left: 776px;
+  position: absolute;
+  top: 75px;
+  width: 527px;
+}
+
+.home-page .text-wrapper-117 {
+  color: #bd9a30;
+  font-family: "Manrope", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 653px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 5865px;
+  white-space: nowrap;
+}

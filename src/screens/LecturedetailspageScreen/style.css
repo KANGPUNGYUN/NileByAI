@@ -1,0 +1,711 @@
+.lecturedetailspage-screen {
+  background-color: #171a1f;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.lecturedetailspage-screen .lecturedetailspage-2 {
+  background-color: #171a1f;
+  height: 2456px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.lecturedetailspage-screen .div-9 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 180px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage-screen .text-wrapper-129 {
+  font-weight: 700;
+}
+
+.lecturedetailspage-screen .text-wrapper-130 {
+  font-weight: 500;
+}
+
+.lecturedetailspage-screen .text-wrapper-131 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 611px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 314px;
+  width: 496px;
+}
+
+.lecturedetailspage-screen .text-wrapper-132 {
+  color: #a4a4a4;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 611px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-decoration: underline;
+  top: 378px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage-screen .text-wrapper-133 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 611px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 268px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage-screen .image-11 {
+  height: 288px;
+  left: 132px;
+  position: absolute;
+  top: 269px;
+  width: 425px;
+}
+
+.lecturedetailspage-screen .text-wrapper-134 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 611px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 431px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage-screen .line-18 {
+  height: 3px;
+  left: 132px;
+  position: absolute;
+  top: 232px;
+  width: 1176px;
+}
+
+.lecturedetailspage-screen .text-wrapper-135 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 721px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 431px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage-screen .text-wrapper-136 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 611px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 489px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage-screen .text-wrapper-137 {
+  color: #9095a1;
+  font-family: "Lexend", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 823px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  text-decoration: line-through;
+  top: 489px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage-screen .text-wrapper-138 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 721px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 489px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage-screen .line-19 {
+  height: 1px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 668px;
+  width: 1176px;
+}
+
+.lecturedetailspage-screen .button-42 {
+  all: unset;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #bd9a30;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 132px;
+  overflow: hidden;
+  position: absolute;
+  top: 580px;
+  width: 425px;
+}
+
+.lecturedetailspage-screen .text-wrapper-139 {
+  color: #bd9a30;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 170px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage-screen .text-wrapper-140 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 160px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 706px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage-screen .button-play-4 {
+  height: 24px;
+  left: 130px;
+  position: absolute;
+  top: 709px;
+  width: 24px;
+}
+
+.lecturedetailspage-screen .q-a-3 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 162px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 1524px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage-screen .button-play-5 {
+  height: 24px;
+  left: 132px;
+  position: absolute;
+  top: 1527px;
+  width: 24px;
+}
+
+.lecturedetailspage-screen .line-20 {
+  height: 1px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 1496px;
+  width: 1176px;
+}
+
+.lecturedetailspage-screen .text-wrapper-141 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 162px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 1071px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage-screen .button-play-6 {
+  height: 24px;
+  left: 132px;
+  position: absolute;
+  top: 1074px;
+  width: 24px;
+}
+
+.lecturedetailspage-screen .line-21 {
+  height: 1px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 1044px;
+  width: 1176px;
+}
+
+.lecturedetailspage-screen .container-42 {
+  background-color: #0f1114;
+  border-radius: 4px;
+  box-shadow: 0px 4px 9px #171a1f1c, 0px 0px 2px #171a1f1f;
+  height: 86px;
+  left: 162px;
+  position: absolute;
+  top: 1172px;
+  width: 581px;
+}
+
+.lecturedetailspage-screen .sidebar-menu-3 {
+  height: 80px;
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 531px;
+}
+
+.lecturedetailspage-screen .frame-31 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 531px;
+}
+
+.lecturedetailspage-screen .text-wrapper-142 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 48px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 8px;
+  width: 467px;
+}
+
+.lecturedetailspage-screen .play-media {
+  height: 24px;
+  left: 16px;
+  position: absolute;
+  top: 8px;
+  width: 24px;
+}
+
+.lecturedetailspage-screen .frame-32 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 40px;
+  width: 531px;
+}
+
+.lecturedetailspage-screen .lock {
+  height: 24px;
+  left: 545px;
+  position: absolute;
+  top: 13px;
+  width: 24px;
+}
+
+.lecturedetailspage-screen .lock-2 {
+  height: 24px;
+  left: 545px;
+  position: absolute;
+  top: 48px;
+  width: 24px;
+}
+
+.lecturedetailspage-screen .dropdown-button-4 {
+  background-color: #0f1114;
+  border: 1px solid;
+  border-color: #9095a1;
+  border-radius: 4px;
+  height: 37px;
+  left: 161px;
+  position: absolute;
+  top: 1129px;
+  width: 582px;
+}
+
+.lecturedetailspage-screen .overlap-group-7 {
+  border: 5px solid;
+  border-color: #9095a133;
+  border-radius: 4px;
+  height: 43px;
+  left: -4px;
+  position: relative;
+  top: -4px;
+  width: 588px;
+}
+
+.lecturedetailspage-screen .text-wrapper-143 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage-screen .chevron-down-large-5 {
+  height: 14px;
+  left: 554px;
+  position: absolute;
+  top: 10px;
+  width: 14px;
+}
+
+.lecturedetailspage-screen .dropdown-button-5 {
+  background-color: #0f1114;
+  border: 1px solid;
+  border-color: #9095a1;
+  border-radius: 4px;
+  height: 37px;
+  left: 161px;
+  position: absolute;
+  top: 1285px;
+  width: 582px;
+}
+
+.lecturedetailspage-screen .text-wrapper-144 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage-screen .chevron-down-large-6 {
+  height: 14px;
+  left: 555px;
+  position: absolute;
+  top: 11px;
+  width: 14px;
+}
+
+.lecturedetailspage-screen .dropdown-button-6 {
+  background-color: #0f1114;
+  border: 1px solid;
+  border-color: #9095a1;
+  border-radius: 4px;
+  height: 37px;
+  left: 161px;
+  position: absolute;
+  top: 1340px;
+  width: 582px;
+}
+
+.lecturedetailspage-screen .table-2-instance {
+  left: 155px !important;
+  position: absolute !important;
+  top: 1560px !important;
+}
+
+.lecturedetailspage-screen .table-3 {
+  background-color: transparent !important;
+}
+
+.lecturedetailspage-screen .button-43 {
+  all: unset;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 547px;
+  overflow: hidden;
+  position: absolute;
+  top: 2017px;
+  width: 36px;
+}
+
+.lecturedetailspage-screen .text-9 {
+  color: #9095a1;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage-screen .img-11 {
+  height: 16px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.lecturedetailspage-screen .button-44 {
+  all: unset;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dee1e6;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 622px;
+  overflow: hidden;
+  position: absolute;
+  top: 2017px;
+  width: 32px;
+}
+
+.lecturedetailspage-screen .text-wrapper-145 {
+  color: #9095a1;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage-screen .button-45 {
+  all: unset;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dee1e6;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 658px;
+  overflow: hidden;
+  position: absolute;
+  top: 2017px;
+  width: 33px;
+}
+
+.lecturedetailspage-screen .button-46 {
+  all: unset;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dee1e6;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 695px;
+  overflow: hidden;
+  position: absolute;
+  top: 2017px;
+  width: 33px;
+}
+
+.lecturedetailspage-screen .button-47 {
+  all: unset;
+  background-color: #bd9a30;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 587px;
+  overflow: hidden;
+  position: absolute;
+  top: 2017px;
+  width: 31px;
+}
+
+.lecturedetailspage-screen .text-wrapper-146 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage-screen .button-48 {
+  all: unset;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dee1e6;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 732px;
+  overflow: hidden;
+  position: absolute;
+  top: 2017px;
+  width: 36px;
+}
+
+.lecturedetailspage-screen .button-49 {
+  all: unset;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dee1e6;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 772px;
+  overflow: hidden;
+  position: absolute;
+  top: 2017px;
+  width: 39px;
+}
+
+.lecturedetailspage-screen .button-50 {
+  all: unset;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dee1e6;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 815px;
+  overflow: hidden;
+  position: absolute;
+  top: 2017px;
+  width: 37px;
+}
+
+.lecturedetailspage-screen .text-wrapper-147 {
+  color: #9095a1;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage-screen .button-51 {
+  all: unset;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 856px;
+  overflow: hidden;
+  position: absolute;
+  top: 2017px;
+  width: 36px;
+}
+
+.lecturedetailspage-screen .button-52 {
+  all: unset;
+  background-color: #bd9a30;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 1195px;
+  overflow: hidden;
+  position: absolute;
+  top: 1981px;
+  width: 105px;
+}
+
+.lecturedetailspage-screen .text-wrapper-148 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage-screen .text-wrapper-149 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 156px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 764px;
+  width: 1150px;
+}
+
+.lecturedetailspage-screen .button-53 {
+  all: unset;
+  background-color: #bd9a30;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 610px;
+  overflow: hidden;
+  position: absolute;
+  top: 580px;
+  width: 696px;
+}
+
+.lecturedetailspage-screen .text-wrapper-150 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 306px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage-screen .container-43 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 2100px !important;
+}
+
+.lecturedetailspage-screen .container-44 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}

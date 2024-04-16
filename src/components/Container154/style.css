@@ -1,0 +1,81 @@
+.container-154 {
+  background-color: #1e2128;
+  border: 1px solid;
+  border-color: #1e2128;
+  box-shadow: 0px 2px 5px #171a1f17, 0px 0px 2px #171a1f1f;
+  height: 824px;
+  width: 256px;
+}
+
+.container-154 .sidebar-menu {
+  height: 172px;
+  left: 24px;
+  position: relative;
+  top: 24px;
+  width: 208px;
+}
+
+.container-154 .frame-16 {
+  border-radius: 4px;
+  height: 40px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 208px;
+}
+
+.container-154 .text-wrapper-37 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 48px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 8px;
+  width: 144px;
+}
+
+.container-154 .img-2 {
+  height: 24px;
+  left: 16px;
+  position: absolute;
+  top: 8px;
+  width: 24px;
+}
+
+.container-154 .frame-17 {
+  border-radius: 4px;
+  height: 40px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 132px;
+  width: 208px;
+}
+
+.container-154 .frame-18 {
+  background-color: #171a1f;
+  border-radius: 4px;
+  height: 40px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 66px;
+  width: 208px;
+}
+
+.container-154 .text-wrapper-38 {
+  color: #bd9a30;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 48px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 8px;
+  width: 144px;
+}

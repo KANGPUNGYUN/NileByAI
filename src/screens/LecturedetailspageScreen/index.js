@@ -1,0 +1,1 @@
+export { LecturedetailspageScreen } from "./LecturedetailspageScreen";

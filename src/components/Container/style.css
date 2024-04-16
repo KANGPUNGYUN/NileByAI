@@ -1,0 +1,295 @@
+.container {
+  background-color: #1e2128;
+  height: 356px;
+  position: relative;
+  width: 1440px;
+}
+
+.container .group {
+  height: 22px;
+  left: 119px;
+  position: absolute;
+  top: 311px;
+  width: 329px;
+}
+
+.container .text-wrapper {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 261px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.container .div {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 247px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.container .text-wrapper-2 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.container .text-wrapper-3 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.container .text-wrapper-4 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 199px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.container .text-wrapper-5 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 185px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.container .text-wrapper-6 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 118px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.container .image {
+  height: 100px;
+  left: 122px;
+  position: absolute;
+  top: 61px;
+  width: 140px;
+}
+
+.container .text-wrapper-7 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  left: 131px;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  top: 177px;
+  white-space: nowrap;
+}
+
+.container .text-wrapper-8 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 662px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 95px;
+  white-space: nowrap;
+}
+
+.container .text-wrapper-9 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 822px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 95px;
+  white-space: nowrap;
+}
+
+.container .text-wrapper-10 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 982px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 95px;
+  white-space: nowrap;
+}
+
+.container .partners {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 982px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 141px;
+  white-space: nowrap;
+}
+
+.container .text-wrapper-11 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 982px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 175px;
+  white-space: nowrap;
+}
+
+.container .text-wrapper-12 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 662px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 175px;
+  white-space: nowrap;
+}
+
+.container .text-wrapper-13 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 662px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 141px;
+  white-space: nowrap;
+}
+
+.container .text-wrapper-14 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 822px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 141px;
+  white-space: nowrap;
+}
+
+.container .text-wrapper-15 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 822px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 175px;
+  white-space: nowrap;
+}
+
+.container .text-wrapper-16 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 822px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 209px;
+  white-space: nowrap;
+}
+
+.container .text-wrapper-17 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 1179px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 95px;
+  white-space: nowrap;
+}
+
+.container .text-wrapper-18 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 1179px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 141px;
+  white-space: nowrap;
+}
+
+.container .text-wrapper-19 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 982px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 209px;
+  white-space: nowrap;
+}

@@ -1,0 +1,354 @@
+.bulletin-board {
+  background-color: #171a1f;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.bulletin-board .div-8 {
+  background-color: #171a1f;
+  height: 1313px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.bulletin-board .container-39 {
+  background-color: #1e2128;
+  border: 1px solid;
+  border-color: #171a1f;
+  border-radius: 6px;
+  height: 730px;
+  left: 185px;
+  position: absolute;
+  top: 125px;
+  width: 1070px;
+}
+
+.bulletin-board .text-wrapper-120 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  top: 59px;
+  white-space: nowrap;
+}
+
+.bulletin-board .button-38 {
+  all: unset;
+  background-color: #f9623e;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 937px;
+  overflow: hidden;
+  position: absolute;
+  top: 24px;
+  width: 105px;
+}
+
+.bulletin-board .text-wrapper-121 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.bulletin-board .button-39 {
+  all: unset;
+  background-color: #bd9a30;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 809px;
+  overflow: hidden;
+  position: absolute;
+  top: 24px;
+  width: 105px;
+}
+
+.bulletin-board .button-40 {
+  all: unset;
+  background-color: #bd9a30;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 681px;
+  overflow: hidden;
+  position: absolute;
+  top: 24px;
+  width: 105px;
+}
+
+.bulletin-board .button-41 {
+  all: unset;
+  background-color: #1e2128;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 26px;
+  left: 927px;
+  overflow: hidden;
+  position: absolute;
+  top: 680px;
+  width: 91px;
+}
+
+.bulletin-board .text-wrapper-122 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.bulletin-board .david-smith {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 58px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 131px;
+  width: 101px;
+}
+
+.bulletin-board .header-menu-2 {
+  height: 52px;
+  left: 172px;
+  position: absolute;
+  top: 119px;
+  width: 234px;
+}
+
+.bulletin-board .frame-28 {
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 98px;
+}
+
+.bulletin-board .text-wrapper-123 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.bulletin-board .frame-29 {
+  height: 52px;
+  left: 98px;
+  position: absolute;
+  top: 0;
+  width: 65px;
+}
+
+.bulletin-board .text-wrapper-124 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.bulletin-board .img-10 {
+  height: 24px;
+  left: 12px;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.bulletin-board .frame-30 {
+  height: 52px;
+  left: 163px;
+  position: absolute;
+  top: 0;
+  width: 71px;
+}
+
+.bulletin-board .officia-magna-et {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 214px;
+  width: 999px;
+}
+
+.bulletin-board .line-17 {
+  height: 1px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 416px;
+  width: 1007px;
+}
+
+.bulletin-board .officia-magna-et-2 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 26px;
+  opacity: 0.96;
+  position: absolute;
+  top: 516px;
+  width: 707px;
+}
+
+.bulletin-board .overlap-group-6 {
+  height: 27px;
+  left: 60px;
+  position: absolute;
+  top: 487px;
+  width: 201px;
+}
+
+.bulletin-board .david-smith-2 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 1px;
+  width: 101px;
+}
+
+.bulletin-board .text-wrapper-125 {
+  color: #9095a1;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 100px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 0;
+  width: 101px;
+}
+
+.bulletin-board .text-wrapper-126 {
+  color: #9095a1;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+}
+
+.bulletin-board .avatar-4 {
+  height: 26px;
+  left: 19px;
+  position: absolute;
+  top: 132px;
+  width: 26px;
+}
+
+.bulletin-board .text-wrapper-127 {
+  color: #9095a1;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 452px;
+  white-space: nowrap;
+}
+
+.bulletin-board .avatar-5 {
+  height: 26px;
+  left: 16px;
+  position: absolute;
+  top: 489px;
+  width: 26px;
+}
+
+.bulletin-board .textarea-3 {
+  background-color: #1e2128;
+  border: 1px solid;
+  border-color: #dee1e6;
+  border-radius: 6px;
+  height: 68px;
+  left: 55px;
+  position: absolute;
+  top: 600px;
+  width: 962px;
+}
+
+.bulletin-board .text-wrapper-128 {
+  color: #bdc1ca;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6px;
+  width: 933px;
+}
+
+.bulletin-board .resizing-handle-3 {
+  height: 12px;
+  left: 948px;
+  position: absolute;
+  top: 54px;
+  width: 12px;
+}
+
+.bulletin-board .container-40 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 957px !important;
+}
+
+.bulletin-board .container-41 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}

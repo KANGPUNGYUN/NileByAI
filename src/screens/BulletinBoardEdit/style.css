@@ -1,0 +1,457 @@
+.bulletin-board-edit {
+  background-color: #171a1f;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.bulletin-board-edit .div-4 {
+  background-color: #171a1f;
+  height: 1217px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.bulletin-board-edit .container-4 {
+  background-color: #1e2128;
+  border: 1px solid;
+  border-color: #171a1f;
+  border-radius: 6px;
+  height: 653px;
+  left: 215px;
+  position: absolute;
+  top: 128px;
+  width: 1010px;
+}
+
+.bulletin-board-edit .text-wrapper-58 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+}
+
+.bulletin-board-edit .textbox-3 {
+  height: 59px;
+  left: 24px;
+  position: absolute;
+  top: 76px;
+  width: 575px;
+}
+
+.bulletin-board-edit .textfield-2 {
+  background-color: #323743;
+  border-radius: 6px;
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 23px;
+  width: 574px;
+}
+
+.bulletin-board-edit .text-wrapper-59 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.bulletin-board-edit .text-wrapper-60 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.bulletin-board-edit .textbox-4 {
+  height: 59px;
+  left: 24px;
+  position: absolute;
+  top: 159px;
+  width: 575px;
+}
+
+.bulletin-board-edit .chevron-down-large {
+  height: 16px;
+  left: 547px;
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.bulletin-board-edit .container-5 {
+  background-color: #323743;
+  border-radius: 6px;
+  height: 42px;
+  left: 24px;
+  position: absolute;
+  top: 272px;
+  width: 956px;
+}
+
+.bulletin-board-edit .dropdown-button {
+  border: 1px solid;
+  border-color: #323743;
+  border-radius: 3px;
+  height: 29px;
+  left: 11px;
+  position: absolute;
+  top: 6px;
+  width: 69px;
+}
+
+.bulletin-board-edit .text-4 {
+  color: #171a1f;
+  font-family: "Manrope", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.bulletin-board-edit .sort-tool {
+  height: 11px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 11px;
+}
+
+.bulletin-board-edit .chevron-down-large-2 {
+  height: 11px;
+  left: 49px;
+  position: absolute;
+  top: 8px;
+  width: 11px;
+}
+
+.bulletin-board-edit .line-4 {
+  height: 24px;
+  left: 92px;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.bulletin-board-edit .button-19 {
+  all: unset;
+  border-radius: 3px;
+  box-sizing: border-box;
+  height: 28px;
+  left: 104px;
+  overflow: hidden;
+  position: absolute;
+  top: 7px;
+  width: 28px;
+}
+
+.bulletin-board-edit .text-5 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.bulletin-board-edit .img-7 {
+  height: 12px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 12px;
+}
+
+.bulletin-board-edit .button-20 {
+  all: unset;
+  border-radius: 3px;
+  box-sizing: border-box;
+  height: 28px;
+  left: 146px;
+  overflow: hidden;
+  position: absolute;
+  top: 7px;
+  width: 28px;
+}
+
+.bulletin-board-edit .button-21 {
+  all: unset;
+  border-radius: 3px;
+  box-sizing: border-box;
+  height: 28px;
+  left: 188px;
+  overflow: hidden;
+  position: absolute;
+  top: 7px;
+  width: 28px;
+}
+
+.bulletin-board-edit .line-5 {
+  height: 24px;
+  left: 226px;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.bulletin-board-edit .button-22 {
+  all: unset;
+  border-radius: 3px;
+  box-sizing: border-box;
+  height: 28px;
+  left: 238px;
+  overflow: hidden;
+  position: absolute;
+  top: 7px;
+  width: 28px;
+}
+
+.bulletin-board-edit .button-23 {
+  all: unset;
+  border-radius: 3px;
+  box-sizing: border-box;
+  height: 28px;
+  left: 280px;
+  overflow: hidden;
+  position: absolute;
+  top: 7px;
+  width: 28px;
+}
+
+.bulletin-board-edit .line-6 {
+  height: 24px;
+  left: 320px;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.bulletin-board-edit .oval {
+  height: 24px;
+  left: 334px;
+  position: absolute;
+  top: 9px;
+  width: 24px;
+}
+
+.bulletin-board-edit .dropdown-button-2 {
+  border: 1px solid;
+  border-color: #323743;
+  border-radius: 3px;
+  height: 29px;
+  left: 672px;
+  position: absolute;
+  top: 6px;
+  width: 74px;
+}
+
+.bulletin-board-edit .text-wrapper-61 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.bulletin-board-edit .chevron-down-large-3 {
+  height: 11px;
+  left: 54px;
+  position: absolute;
+  top: 8px;
+  width: 11px;
+}
+
+.bulletin-board-edit .dropdown-button-3 {
+  border: 1px solid;
+  border-color: #323743;
+  border-radius: 3px;
+  height: 29px;
+  left: 756px;
+  position: absolute;
+  top: 6px;
+  width: 62px;
+}
+
+.bulletin-board-edit .chevron-down-large-4 {
+  height: 11px;
+  left: 42px;
+  position: absolute;
+  top: 8px;
+  width: 11px;
+}
+
+.bulletin-board-edit .line-7 {
+  height: 24px;
+  left: 832px;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.bulletin-board-edit .button-24 {
+  all: unset;
+  border-radius: 3px;
+  box-sizing: border-box;
+  height: 28px;
+  left: 838px;
+  overflow: hidden;
+  position: absolute;
+  top: 7px;
+  width: 28px;
+}
+
+.bulletin-board-edit .button-25 {
+  all: unset;
+  border-radius: 3px;
+  box-sizing: border-box;
+  height: 28px;
+  left: 878px;
+  overflow: hidden;
+  position: absolute;
+  top: 7px;
+  width: 28px;
+}
+
+.bulletin-board-edit .button-26 {
+  all: unset;
+  border-radius: 3px;
+  box-sizing: border-box;
+  height: 28px;
+  left: 926px;
+  overflow: hidden;
+  position: absolute;
+  top: 7px;
+  width: 28px;
+}
+
+.bulletin-board-edit .line-8 {
+  height: 24px;
+  left: 920px;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.bulletin-board-edit .overlap-group-4 {
+  border-radius: 6px;
+  height: 306px;
+  left: 24px;
+  position: absolute;
+  top: 322px;
+  width: 955px;
+}
+
+.bulletin-board-edit .text-wrapper-62 {
+  color: #323743;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.bulletin-board-edit .textarea {
+  background-color: #323743;
+  border-radius: 6px;
+  height: 306px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 955px;
+}
+
+.bulletin-board-edit .text-wrapper-63 {
+  color: #bdc1ca;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6px;
+  width: 926px;
+}
+
+.bulletin-board-edit .resizing-handle {
+  height: 12px;
+  left: 941px;
+  position: absolute;
+  top: 292px;
+  width: 12px;
+}
+
+.bulletin-board-edit .button-27 {
+  all: unset;
+  background-color: #bd9a30;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 877px;
+  overflow: hidden;
+  position: absolute;
+  top: 18px;
+  width: 105px;
+}
+
+.bulletin-board-edit .text-wrapper-64 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.bulletin-board-edit .design-component-instance-node {
+  left: 0 !important;
+  position: absolute !important;
+  top: 861px !important;
+}
+
+.bulletin-board-edit .container-6 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}

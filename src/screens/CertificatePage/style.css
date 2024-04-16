@@ -1,0 +1,197 @@
+.certificate-page {
+  background-color: #171a1f;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.certificate-page .div-10 {
+  background-color: #171a1f;
+  height: 1500px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.certificate-page .container-45 {
+  background-color: #171a1f;
+  border-radius: 4px;
+  box-shadow: 0px 0px 1px #171a1f12, 0px 0px 2px #171a1f1f;
+  height: 878px;
+  left: 22px;
+  position: absolute;
+  top: 208px;
+  width: 1418px;
+}
+
+.certificate-page .button-54 {
+  background-color: #bd9a30;
+  border-radius: 4px;
+  height: 36px;
+  left: 1184px;
+  overflow: hidden;
+  position: absolute;
+  top: 26px;
+  width: 102px;
+}
+
+.certificate-page .text-wrapper-151 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.certificate-page .move-layer-down {
+  height: 16px;
+  left: 12px;
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.certificate-page .image-12 {
+  height: 672px;
+  left: 298px;
+  position: absolute;
+  top: 152px;
+  width: 478px;
+}
+
+.certificate-page .image-13 {
+  height: 644px;
+  left: 831px;
+  position: absolute;
+  top: 166px;
+  width: 455px;
+}
+
+.certificate-page .header-menu-3 {
+  height: 64px;
+  left: 298px;
+  position: absolute;
+  top: 42px;
+  width: 521px;
+}
+
+.certificate-page .frame-33 {
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.certificate-page .text-wrapper-152 {
+  color: #565d6d;
+  font-family: "Manrope", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 38px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.certificate-page .frame-34 {
+  height: 64px;
+  left: 300px;
+  position: absolute;
+  top: 0;
+  width: 177px;
+}
+
+.certificate-page .rectangle-4 {
+  background-color: #bd9a30;
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 60px;
+  width: 177px;
+}
+
+.certificate-page .text-wrapper-153 {
+  color: #bd9a30;
+  font-family: "Manrope", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: 38px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.certificate-page .chevron-right-large {
+  height: 25px;
+  left: 20px;
+  position: absolute;
+  top: 20px;
+  width: 25px;
+}
+
+.certificate-page .frame-35 {
+  height: 64px;
+  left: 477px;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.certificate-page .text-10 {
+  color: #565d6d;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.certificate-page .container-154-instance {
+  border-color: unset !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.certificate-page .container-46 {
+  background-color: #171a1f !important;
+}
+
+.certificate-page .container-47 {
+  color: #bd9a30 !important;
+}
+
+.certificate-page .container-48 {
+  background-color: #1e2128 !important;
+}
+
+.certificate-page .container-49 {
+  color: #dee1e6 !important;
+}
+
+.certificate-page .container-50 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.certificate-page .container-51 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 1144px !important;
+}

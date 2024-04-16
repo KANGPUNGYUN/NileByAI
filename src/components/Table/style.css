@@ -1,0 +1,357 @@
+.table {
+  border: 1px solid;
+  border-color: #171a1f;
+  border-radius: 6px;
+  height: 394px;
+  overflow: hidden;
+  position: relative;
+  width: 1153px;
+}
+
+.table .header {
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1151px;
+}
+
+.table .overlap-group-2 {
+  height: 46px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 1153px;
+}
+
+.table .frame-4 {
+  background-color: #171a1f;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #dee1e6;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 46px;
+  left: 94px;
+  position: absolute;
+  top: 0;
+  width: 563px;
+}
+
+.table .text-wrapper-25 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 13px;
+  width: 529px;
+}
+
+.table .frame-5 {
+  background-color: #171a1f;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #dee1e6;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 96px;
+}
+
+.table .text-wrapper-26 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 13px;
+  width: 62px;
+}
+
+.table .frame-6 {
+  background-color: #171a1f;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #dee1e6;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 46px;
+  left: 1046px;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.table .text-wrapper-27 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 13px;
+  width: 73px;
+}
+
+.table .frame-7 {
+  background-color: #171a1f;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #dee1e6;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 46px;
+  left: 853px;
+  position: absolute;
+  top: 0;
+  width: 195px;
+}
+
+.table .text-wrapper-28 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 13px;
+  width: 161px;
+}
+
+.table .frame-8 {
+  background-color: #171a1f;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #dee1e6;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 46px;
+  left: 655px;
+  position: absolute;
+  top: 0;
+  width: 200px;
+}
+
+.table .text-wrapper-29 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 13px;
+  width: 166px;
+}
+
+.table .row {
+  display: block;
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 44px;
+  width: 1151px;
+}
+
+.table .overlap {
+  height: 60px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 1153px;
+}
+
+.table .frame-9 {
+  background-color: #171a1f;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #dee1e6;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 60px;
+  left: 94px;
+  position: absolute;
+  top: 0;
+  width: 563px;
+}
+
+.table .text-wrapper-30 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 20px;
+  width: 529px;
+}
+
+.table .frame-10 {
+  background-color: #171a1f;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #dee1e6;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 60px;
+  left: 1046px;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.table .text-wrapper-31 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 20px;
+  width: 69px;
+}
+
+.table .frame-11 {
+  background-color: #171a1f;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #dee1e6;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 96px;
+}
+
+.table .text-wrapper-32 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 20px;
+  width: 62px;
+}
+
+.table .frame-12 {
+  background-color: #171a1f;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #dee1e6;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 60px;
+  left: 655px;
+  position: absolute;
+  top: 0;
+  width: 200px;
+}
+
+.table .text-wrapper-33 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 20px;
+  width: 166px;
+}
+
+.table .frame-13 {
+  background-color: #171a1f;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #dee1e6;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 60px;
+  left: 853px;
+  position: absolute;
+  top: 0;
+  width: 195px;
+}
+
+.table .text-wrapper-34 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 20px;
+  width: 161px;
+}
+
+.table .overlap-wrapper {
+  display: block;
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 102px;
+  width: 1151px;
+}
+
+.table .overlap-group-wrapper {
+  display: block;
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 160px;
+  width: 1151px;
+}
+
+.table .row-2 {
+  display: block;
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 218px;
+  width: 1151px;
+}
+
+.table .row-3 {
+  display: block;
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 276px;
+  width: 1151px;
+}
+
+.table .row-4 {
+  display: block;
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 334px;
+  width: 1151px;
+}

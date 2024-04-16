@@ -1,0 +1,36 @@
+.div-wrapper {
+  height: 92px;
+  width: 1440px;
+}
+
+.div-wrapper .overlap-group {
+  height: 92px;
+  position: relative;
+}
+
+.div-wrapper .container-72 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.div-wrapper .avatar {
+  height: 36px;
+  left: 1115px;
+  position: absolute;
+  top: 25px;
+  width: 36px;
+}
+
+.div-wrapper .text-wrapper-24 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 1170px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 31px;
+  width: 198px;
+}

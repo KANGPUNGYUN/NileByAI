@@ -1,0 +1,556 @@
+.lecturedetailspage {
+  background-color: #171a1f;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.lecturedetailspage .div-2 {
+  background-color: #171a1f;
+  height: 2256px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.lecturedetailspage .overlap-2 {
+  height: 60px;
+  left: 162px;
+  position: absolute;
+  top: 1248px;
+  width: 79px;
+}
+
+.lecturedetailspage .q-a {
+  color: #171a1f;
+  font-family: "Lexend", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  width: 56px;
+}
+
+.lecturedetailspage .q-a-2 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage .line {
+  height: 1px;
+  left: 156px;
+  object-fit: cover;
+  position: absolute;
+  top: 1220px;
+  width: 1151px;
+}
+
+.lecturedetailspage .container-2 {
+  background-color: #171a1f;
+  height: 686px;
+  left: 156px;
+  position: absolute;
+  top: 336px;
+  width: 1152px;
+}
+
+.lecturedetailspage .overlap-3 {
+  background-image: url(../../../static/img/image-72.png);
+  background-size: 100% 100%;
+  height: 686px;
+  position: relative;
+}
+
+.lecturedetailspage .button-3 {
+  all: unset;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #6d31ed;
+  border-radius: 26px;
+  box-sizing: border-box;
+  height: 52px;
+  left: 550px;
+  overflow: hidden;
+  position: absolute;
+  top: 317px;
+  width: 52px;
+}
+
+.lecturedetailspage .text {
+  color: #6d31ed;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage .button-play {
+  height: 24px;
+  left: 14px;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.lecturedetailspage .text-wrapper-42 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 651px;
+  width: 57px;
+}
+
+.lecturedetailspage .slider {
+  height: 12px;
+  left: 0;
+  position: absolute;
+  top: 634px;
+  width: 1152px;
+}
+
+.lecturedetailspage .overlap-group-3 {
+  height: 12px;
+  position: relative;
+}
+
+.lecturedetailspage .rectangle-wrapper {
+  background-color: #d3c1fa;
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 1152px;
+}
+
+.lecturedetailspage .rectangle {
+  background-color: #6d31ed;
+  height: 2px;
+  width: 387px;
+}
+
+.lecturedetailspage .ellipse {
+  background-color: #ffffff;
+  border-radius: 6px;
+  box-shadow: 0px 0px 1px #6d31ed12, 0px 0px 2px #6d31ed1f;
+  height: 12px;
+  left: 381px;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.lecturedetailspage .volume-down {
+  height: 24px;
+  left: 92px;
+  position: absolute;
+  top: 650px;
+  width: 24px;
+}
+
+.lecturedetailspage .skip-next {
+  height: 24px;
+  left: 52px;
+  position: absolute;
+  top: 650px;
+  width: 24px;
+}
+
+.lecturedetailspage .button-play-2 {
+  height: 24px;
+  left: 12px;
+  position: absolute;
+  top: 650px;
+  width: 24px;
+}
+
+.lecturedetailspage .settings-gear {
+  height: 24px;
+  left: 1076px;
+  position: absolute;
+  top: 650px;
+  width: 24px;
+}
+
+.lecturedetailspage .fullscreen {
+  height: 24px;
+  left: 1116px;
+  position: absolute;
+  top: 650px;
+  width: 24px;
+}
+
+.lecturedetailspage .device-connection {
+  height: 24px;
+  left: 1036px;
+  position: absolute;
+  top: 650px;
+  width: 24px;
+}
+
+.lecturedetailspage .rectangle-2 {
+  background-color: #171a1f4c;
+  height: 686px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1152px;
+}
+
+.lecturedetailspage .text-wrapper-43 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 161px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  top: 249px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage .button-4 {
+  all: unset;
+  background-color: #bd9a30;
+  border-radius: 8px;
+  box-sizing: border-box;
+  height: 52px;
+  left: 156px;
+  overflow: hidden;
+  position: absolute;
+  top: 1062px;
+  width: 144px;
+}
+
+.lecturedetailspage .text-wrapper-44 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage .arrow-left {
+  height: 24px;
+  left: 20px;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.lecturedetailspage .button-5 {
+  all: unset;
+  background-color: #bd9a30;
+  border-radius: 8px;
+  box-sizing: border-box;
+  height: 52px;
+  left: 1163px;
+  overflow: hidden;
+  position: absolute;
+  top: 1062px;
+  width: 144px;
+}
+
+.lecturedetailspage .text-wrapper-45 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage .arrow-right {
+  height: 24px;
+  left: 100px;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.lecturedetailspage .button-6 {
+  all: unset;
+  background-color: #bd9a30;
+  border-radius: 8px;
+  box-sizing: border-box;
+  height: 52px;
+  left: 664px;
+  overflow: hidden;
+  position: absolute;
+  top: 1062px;
+  width: 112px;
+}
+
+.lecturedetailspage .container-82 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 1900px !important;
+}
+
+.lecturedetailspage .container-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.lecturedetailspage .button-play-3 {
+  height: 24px;
+  left: 132px;
+  position: absolute;
+  top: 1281px;
+  width: 24px;
+}
+
+.lecturedetailspage .button-7 {
+  all: unset;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 547px;
+  overflow: hidden;
+  position: absolute;
+  top: 1771px;
+  width: 36px;
+}
+
+.lecturedetailspage .text-2 {
+  color: #9095a1;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage .img-4 {
+  height: 16px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.lecturedetailspage .button-8 {
+  all: unset;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dee1e6;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 622px;
+  overflow: hidden;
+  position: absolute;
+  top: 1771px;
+  width: 32px;
+}
+
+.lecturedetailspage .text-wrapper-46 {
+  color: #9095a1;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage .button-9 {
+  all: unset;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dee1e6;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 658px;
+  overflow: hidden;
+  position: absolute;
+  top: 1771px;
+  width: 33px;
+}
+
+.lecturedetailspage .button-10 {
+  all: unset;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dee1e6;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 695px;
+  overflow: hidden;
+  position: absolute;
+  top: 1771px;
+  width: 33px;
+}
+
+.lecturedetailspage .button-11 {
+  all: unset;
+  background-color: #bd9a30;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 587px;
+  overflow: hidden;
+  position: absolute;
+  top: 1771px;
+  width: 31px;
+}
+
+.lecturedetailspage .text-wrapper-47 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage .button-12 {
+  all: unset;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dee1e6;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 732px;
+  overflow: hidden;
+  position: absolute;
+  top: 1771px;
+  width: 36px;
+}
+
+.lecturedetailspage .button-13 {
+  all: unset;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dee1e6;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 772px;
+  overflow: hidden;
+  position: absolute;
+  top: 1771px;
+  width: 39px;
+}
+
+.lecturedetailspage .button-14 {
+  all: unset;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dee1e6;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 815px;
+  overflow: hidden;
+  position: absolute;
+  top: 1771px;
+  width: 37px;
+}
+
+.lecturedetailspage .text-wrapper-48 {
+  color: #9095a1;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage .button-15 {
+  all: unset;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 856px;
+  overflow: hidden;
+  position: absolute;
+  top: 1771px;
+  width: 36px;
+}
+
+.lecturedetailspage .button-16 {
+  all: unset;
+  background-color: #bd9a30;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 36px;
+  left: 1195px;
+  overflow: hidden;
+  position: absolute;
+  top: 1735px;
+  width: 105px;
+}
+
+.lecturedetailspage .text-wrapper-49 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.lecturedetailspage .table-2 {
+  left: 155px !important;
+  position: absolute !important;
+  top: 1314px !important;
+}
+
+.lecturedetailspage .table-instance {
+  background-color: transparent !important;
+}

@@ -1,0 +1,141 @@
+.container-wrapper {
+  background-color: #1e2128;
+  box-shadow: 0px 4px 9px #1e21281c, 0px 0px 2px #1e21281f;
+  height: 92px;
+  position: relative;
+  width: 1440px;
+}
+
+.container-wrapper .button {
+  all: unset;
+  background-color: #bd9a30;
+  border-radius: 8px;
+  box-sizing: border-box;
+  height: 44px;
+  left: 1211px;
+  overflow: hidden;
+  position: absolute;
+  top: 24px;
+  width: 165px;
+}
+
+.container-wrapper .text-wrapper-20 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.container-wrapper .button-2 {
+  all: unset;
+  border-radius: 8px;
+  box-sizing: border-box;
+  height: 44px;
+  left: 1051px;
+  overflow: hidden;
+  position: absolute;
+  top: 24px;
+  width: 140px;
+}
+
+.container-wrapper .text-wrapper-21 {
+  color: #bd9a30;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.container-wrapper .header-menu {
+  height: 52px;
+  left: 526px;
+  position: absolute;
+  top: 20px;
+  width: 388px;
+}
+
+.container-wrapper .frame {
+  display: block;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 104px;
+}
+
+.container-wrapper .text-wrapper-22 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.container-wrapper .frame-2 {
+  display: block;
+  height: 52px;
+  left: 104px;
+  position: absolute;
+  top: 0;
+  width: 164px;
+}
+
+.container-wrapper .text-wrapper-23 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 43px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.container-wrapper .frame-3 {
+  height: 52px;
+  left: 269px;
+  position: absolute;
+  top: 0;
+  width: 118px;
+}
+
+.container-wrapper .img {
+  display: block;
+  height: 50px;
+  left: 54px;
+  position: absolute;
+  top: 18px;
+  width: 70px;
+}
+
+.container-wrapper .big-brother-sheep {
+  color: #dee1e6;
+  display: block;
+  font-family: "Lexend", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 31px;
+  white-space: nowrap;
+}

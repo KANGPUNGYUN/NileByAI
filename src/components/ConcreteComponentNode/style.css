@@ -1,0 +1,123 @@
+.concrete-component-node {
+  background-color: #1e2128;
+  border: 1px solid;
+  border-color: #171a1f;
+  box-shadow: 0px 2px 5px #171a1f17, 0px 0px 2px #171a1f1f;
+  height: 985px;
+  position: relative;
+  width: 309px;
+}
+
+.concrete-component-node .sidebar-menu-2 {
+  height: 303px;
+  left: 15px;
+  position: absolute;
+  top: 128px;
+  width: 261px;
+}
+
+.concrete-component-node .frame-19 {
+  background-color: #171a1f;
+  border-radius: 4px;
+  height: 40px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 261px;
+}
+
+.concrete-component-node .text-wrapper-39 {
+  color: #bd9a30;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 48px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 8px;
+  width: 197px;
+}
+
+.concrete-component-node .img-3 {
+  height: 24px;
+  left: 16px;
+  position: absolute;
+  top: 8px;
+  width: 24px;
+}
+
+.concrete-component-node .frame-20 {
+  border-radius: 4px;
+  height: 40px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 66px;
+  width: 261px;
+}
+
+.concrete-component-node .text-wrapper-40 {
+  color: #dee1e6;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 48px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 8px;
+  width: 197px;
+}
+
+.concrete-component-node .frame-21 {
+  border-radius: 4px;
+  height: 40px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 132px;
+  width: 261px;
+}
+
+.concrete-component-node .frame-22 {
+  border-radius: 4px;
+  height: 40px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 197px;
+  width: 261px;
+}
+
+.concrete-component-node .frame-23 {
+  border-radius: 4px;
+  height: 40px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 263px;
+  width: 261px;
+}
+
+.concrete-component-node .image-3 {
+  height: 37px;
+  left: 20px;
+  position: absolute;
+  top: 28px;
+  width: 52px;
+}
+
+.concrete-component-node .text-wrapper-41 {
+  color: #dee1e6;
+  font-family: "Lexend", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 83px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+}

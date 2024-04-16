@@ -1,0 +1,299 @@
+.login {
+  background-color: #171a1f;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.login .div-3 {
+  background-color: #171a1f;
+  height: 1500px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.login .container-3 {
+  background-color: #ffffff;
+  border-radius: 4px;
+  box-shadow: 0px 4px 9px #171a1f1c, 0px 0px 2px #171a1f1f;
+  height: 520px;
+  left: 455px;
+  overflow: hidden;
+  position: absolute;
+  top: 358px;
+  width: 531px;
+}
+
+.login .textbox {
+  height: 59px;
+  left: 24px;
+  position: absolute;
+  top: 96px;
+  width: 483px;
+}
+
+.login .textfield {
+  background-color: #f3f4f6;
+  border-radius: 4px;
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 23px;
+  width: 482px;
+}
+
+.login .text-wrapper-50 {
+  color: #bdc1ca;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.login .img-5 {
+  height: 16px;
+  left: 12px;
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.login .text-wrapper-51 {
+  color: #424856;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.login .textbox-2 {
+  height: 59px;
+  left: 24px;
+  position: absolute;
+  top: 175px;
+  width: 483px;
+}
+
+.login .hide {
+  height: 16px;
+  left: 455px;
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.login .button-17 {
+  all: unset;
+  background-color: #bd9a30;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 44px;
+  left: 24px;
+  overflow: hidden;
+  position: absolute;
+  top: 300px;
+  width: 483px;
+}
+
+.login .text-wrapper-52 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 218px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.login .text-wrapper-53 {
+  color: #171a1f;
+  font-family: "Lexend", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 206px;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  white-space: nowrap;
+}
+
+.login .don-t-have-an {
+  color: transparent;
+  font-family: "Lexend", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 162px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 359px;
+  white-space: nowrap;
+}
+
+.login .span {
+  color: #171a1f;
+}
+
+.login .text-wrapper-54 {
+  color: #bd9a30;
+}
+
+.login .checkbox {
+  height: 22px;
+  left: 24px;
+  position: absolute;
+  top: 254px;
+  width: 127px;
+}
+
+.login .frame-24 {
+  height: 22px;
+  position: relative;
+}
+
+.login .frame-wrapper {
+  background-color: #bd9a30;
+  border-radius: 2px;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 16px;
+}
+
+.login .frame-25 {
+  height: 12px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.login .text-wrapper-55 {
+  color: #171a1f;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: -1px;
+  width: 105px;
+}
+
+.login .text-wrapper-56 {
+  color: #bd9a30;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 387px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 253px;
+  white-space: nowrap;
+}
+
+.login .line-2 {
+  height: 1px;
+  left: 288px;
+  object-fit: cover;
+  position: absolute;
+  top: 416px;
+  width: 219px;
+}
+
+.login .text-wrapper-57 {
+  color: #565d6d;
+  font-family: "Lexend", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 257px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 405px;
+  white-space: nowrap;
+}
+
+.login .line-3 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 416px;
+  width: 221px;
+}
+
+.login .button-18 {
+  all: unset;
+  background-color: #c71610;
+  border-radius: 22px;
+  box-sizing: border-box;
+  height: 44px;
+  left: 213px;
+  overflow: hidden;
+  position: absolute;
+  top: 448px;
+  width: 44px;
+}
+
+.login .text-3 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.login .google {
+  height: 20px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 20px;
+}
+
+.login .img-6 {
+  height: 48px;
+  left: 266px;
+  object-fit: cover;
+  position: absolute;
+  top: 446px;
+  width: 48px;
+}
+
+.login .container-82-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 1144px !important;
+}
+
+.login .container-72-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
